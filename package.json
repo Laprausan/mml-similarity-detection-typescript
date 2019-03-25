@@ -1,0 +1,33 @@
+{
+  "name": "mml-similarity-detection-typescript",
+  "version": "1.0.0",
+  "description": "Similarity detection for music contests",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laprausan/mml-similarity-detection-typescript.git"
+  },
+  "author": "Laprau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laprausan/mml-similarity-detection-typescript/issues"
+  },
+  "homepage": "https://github.com/Laprausan/mml-similarity-detection-typescript#readme",
+  "dependencies": {
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.3",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.4000",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
